@@ -22,7 +22,7 @@ BOARD_HAVE_IR := true
 
 # Camera
 PRODUCT_PACKAGES += \
-    libstdc++.vendor
+    libstdc++_vendor
 
 # FM
 BOARD_HAVE_QCOM_FM := true
