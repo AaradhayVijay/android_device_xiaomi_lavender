@@ -1,14 +1,14 @@
 [
   {
     "remote":      "github",
-    "repository":  "PixelExperience-Devices/device_xiaomi_sdm660-common",
+    "repository":  "AaradhayVijay/android_device_xiaomi_sdm660-common",
     "target_path": "device/xiaomi/sdm660-common",
-    "branch":      "thirteen"
+    "branch":      "fourteen-staging"
   },
   {
-    "repository"  : "vendor_xiaomi_lavender",
+    "repository"  : "AaradhayVijay/android_vendor_xiaomi_lavender",
     "target_path" : "vendor/xiaomi/lavender",
-    "branch"      : "thirteen",
-    "remote"      : "pixel-devices-blobs"
+    "branch"      : "fourteen-staging",
+    "remote"      : "github"
   }
 ]
